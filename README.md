@@ -6,8 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a third-year Computer Science (AI) student at Amrita Vishwa Vidyapeetham, Coimbatore, building at the intersection of machine learning, full-stack engineering, and financial systems. My work spans deployed AI applications, embedded systems, and algorithmic trading research — I care about projects that work in the real world, not just in notebooks. Outside of code, I run a YouTube channel on student and college life, hit the gym daily, and am slowly convincing myself that quant finance is just ML with higher stakes.
-
+I'm a third-year Computer Science (AI) student at Amrita Vishwa Vidyapeetham, Coimbatore, building at the intersection of machine learning, full-stack engineering, and financial systems. My work spans deployed AI applications, embedded systems, and algorithmic trading research — I care about projects that work in the real world, not just in notebooks. 
 ---
 
 ## 🛠️ Tech Stack
