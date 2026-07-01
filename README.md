@@ -1,15 +1,59 @@
-# Prajwal 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Prajwal!"
+    alt="Typing SVG"
+  />
+</p>
+<p align="center">
+  <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/cc12e86b-a2a8-4eca-aca1-f0912b9b4582" />
+</p>
 
-*BTech CSE-AI Student · AI/ML Engineer · Full-Stack Developer · Quant Finance Explorer*
+<div align="center">
+
+<div align="center">
+
+<p>
+  <code><b>B.Tech CSE-AI Student</b></code> •
+  <code><b>AI/ML Engineer</b></code> •
+  <code><b>Full-Stack Developer</b></code> •
+  <code><b>Quant Finance Explorer</b></code>
+</p>
+
+</div>
+
+<br>
 
 ---
 
-## 🧑‍💻 About Me
+<br>
 
-I'm a third-year Computer Science (AI) student at Amrita Vishwa Vidyapeetham, Coimbatore, building at the intersection of machine learning, full-stack engineering, and financial systems. My work spans deployed AI applications, embedded systems, and algorithmic trading research — I care about projects that work in the real world, not just in notebooks. 
+<div align="center">
+
+## ABOUT ME
+
+I build software that learns, predicts, and solves.
+
+Currently pursuing **B.Tech in Computer Science (Artificial Intelligence)** at **Amrita Vishwa Vidyapeetham, Coimbatore**.
+
+<br>
+
+<code>Artificial Intelligence</code> &nbsp;
+<code>Full-Stack Engineering</code> &nbsp;
+<code>Cloud Computing</code> &nbsp;
+<code>Cybersecurity</code> &nbsp;
+<code>Embedded Systems</code> &nbsp;
+<code>AI Agents</code>
+<br>
+
+*Whether it's publishing AI research, developing production-ready applications, or engineering intelligent systems, I enjoy turning ambitious ideas into technology that creates real-world impact.*
+
+</div>
+
+<br>
+
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,13 +82,13 @@ I'm a third-year Computer Science (AI) student at Amrita Vishwa Vidyapeetham, Co
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/[your-username])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@[your-channel])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-priyadarshan])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/[prajwal-priyadarshan])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[prajwalpriyadarshan@gmail.com])
 
 ---
 
 <p align="center">
   <i>Building things that actually ship.</i>
 </p>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6e55043d-982b-4c7c-b438-1c78fb5dcf87" />
