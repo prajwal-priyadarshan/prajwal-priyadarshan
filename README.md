@@ -85,7 +85,7 @@ Currently pursuing **B.Tech in Computer Science (Artificial Intelligence)** at *
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://prajwal-priyadarshan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-priyadarshan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajwal-priyadarshan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalpriyadarshan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalpriyadarshan@gmail.me)
 ---
 
 <p align="center">
