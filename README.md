@@ -29,20 +29,40 @@
 
 ## ABOUT ME
 
-I build software that learns, predicts, and solves.
+### Software that learns, predicts, and ships.
 
-I build end-to-end software systems, from React frontends to backend services and deployment infrastructure, with applied experience in asynchronous distributed systems, containerization, and SQL/NoSQL databases.
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🧠 Research</h4>
+      <p align="center">Two peer-reviewed papers (MDPI &amp; Springer, 2025) on smart-grid cybersecurity and wind power forecasting. I like ideas that survive contact with real data.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ Engineering</h4>
+      <p align="center">React frontends to FastAPI/Node backends, Redis queues, Postgres, and Docker. Voice agents, code analyzers, and multi-agent systems, deployed, not just demoed.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📈 Curiosity</h4>
+      <p align="center">Exploring quant finance, where ML meets markets, and building LLM agents that reason over messy real-world information.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
 
 <br>
 
-<code>Artificial Intelligence</code> &nbsp;
-<code>Full-Stack Engineering</code> &nbsp;
+<code>AI Agents</code> &nbsp;
 <code>Distributed Systems</code> &nbsp;
-<code>Cloud Computing</code> &nbsp;
-<code>AI Agents</code>
-<br>
+<code>Full-Stack</code> &nbsp;
+<code>Cloud</code> &nbsp;
+<code>Quant Finance</code>
 
-*Whether it's publishing AI research, developing production-ready applications, or engineering intelligent systems, I enjoy turning ambitious ideas into technology that creates real-world impact.*
+<br><br>
+
+*Turning ambitious ideas into technology that creates real-world impact.*
 
 </div>
 
