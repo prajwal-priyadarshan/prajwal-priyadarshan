@@ -59,17 +59,69 @@ I build end-to-end software systems, from React frontends to backend services an
 
 ## Projects
 
-**Sambhaash AI** - Distributed Voice-Based Lead Engagement System
-Client dashboard to a fault-tolerant Twilio-integrated backend with real-time STT/TTS pipelines. Redis-backed async task queue for lead scoring, retry logic, and dead-letter queues. *3rd Place Globally, Sarvam AI Track, Hackhazards '26.*
-[Live](https://sambhaash-ai.vercel.app/) | [GitHub](https://github.com/prajwal-priyadarshan/Sambhaash_AI)
-
-**RepoGuardian AI** - Automated Code Analysis Platform
-React client and FastAPI backend that analyze repositories for complexity, structure, and maintainability, using the GitHub API and LLMs with PostgreSQL/Supabase.
-[Live](https://repo-guardian-ai.vercel.app/) | [GitHub](https://github.com/prajwal-priyadarshan/RepoGuardian_ai)
-
-**StockSense AI** - Multi-Agent Investment Analysis Platform
-Containerized multi-agent platform orchestrating technical, fundamental, news, and sentiment analysis via LangGraph, built with FastAPI, PostgreSQL, Redis, Docker, and RAG-backed retrieval.
-[GitHub](https://github.com/prajwal-priyadarshan/StockSense-AI)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Sambhaash AI</h3>
+      <p align="center"><sub>Voice-Based Lead Engagement</sub></p>
+      <p align="center"><img src="https://img.shields.io/badge/3rd%20Place-Hackhazards%20'26-CD7F32?style=flat-square" /></p>
+      <ul>
+        <li>Real-time <b>STT/TTS</b> voice pipelines</li>
+        <li>Fault-tolerant <b>Twilio</b> backend</li>
+        <li><b>Redis</b> task queue: lead scoring, retries, dead-letter queues</li>
+        <li>Full client dashboard</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <p align="center">
+        <a href="https://sambhaash-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge" /></a>
+        <a href="https://github.com/prajwal-priyadarshan/Sambhaash_AI"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">RepoGuardian AI</h3>
+      <p align="center"><sub>Automated Code Analysis</sub></p>
+      <p align="center"><img src="https://img.shields.io/badge/Developer-Productivity-444444?style=flat-square" /></p>
+      <ul>
+        <li>Scores <b>complexity, structure, maintainability</b></li>
+        <li><b>GitHub API</b> repository ingestion</li>
+        <li><b>LLM</b>-powered code insights</li>
+        <li>PostgreSQL / Supabase schemas</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <p align="center">
+        <a href="https://repo-guardian-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge" /></a>
+        <a href="https://github.com/prajwal-priyadarshan/RepoGuardian_ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">StockSense AI</h3>
+      <p align="center"><sub>Multi-Agent Investment Analysis</sub></p>
+      <p align="center"><img src="https://img.shields.io/badge/Containerized-Docker-2496ED?style=flat-square" /></p>
+      <ul>
+        <li>Agents for <b>technical, fundamental, news, sentiment</b> analysis</li>
+        <li>Orchestrated with <b>LangGraph</b></li>
+        <li><b>RAG</b>-backed retrieval</li>
+        <li>FastAPI + PostgreSQL + Redis</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/prajwal-priyadarshan/StockSense-AI"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
