@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#F59E0B"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.28"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="1000" height="260" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="260" fill="#0b0b0f"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <rect width="1000" height="260" fill="url(#glow)"/>
+    <text x="60" y="62" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="#F59E0B" letter-spacing="3">// SOFTWARE ENGINEER  /  AI SYSTEMS</text>
+    <text x="58" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="url(#g)">Prajwal Priyadarshan</text>
+    <rect x="60" y="170" width="0" height="4" rx="2" fill="#F59E0B">
+      <animate attributeName="width" from="0" to="880" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+    </rect>
+    <text x="60" y="212" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="18" fill="#9CA3AF">React  /  FastAPI  /  Redis  /  Docker  /  LangGraph</text>
+    <circle cx="940" cy="52" r="6" fill="#F59E0B"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
