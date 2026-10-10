@@ -7,6 +7,8 @@
   </tr>
 </table>
 
+<img src="assets/about.png" alt="About me: end-to-end systems, foundations, AI tooling" width="100%">
+
 <img src="assets/ach.png" alt="Achievements" width="100%">
 
 <img src="assets/proj.png" alt="Projects: Sambhaash AI, RepoGuardian AI, StockSense AI" width="100%">
@@ -18,8 +20,6 @@
 <a href="https://github.com/prajwal-priyadarshan/StockSense-AI"><img src="https://img.shields.io/badge/StockSense_AI-Code-2b2f37?style=for-the-badge" alt="StockSense AI code"></a>
 
 <img src="assets/tech.png" alt="Tech stack" width="100%">
-
-<img src="assets/pub.png" alt="Publications, courses and certifications" width="100%">
 
 <img src="assets/connect.png" alt="Connect with me" width="100%">
 
