@@ -1,11 +1,6 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="assets/hero.png" alt="Hi, I am Prajwal Priyadarshan G. B.Tech CSE (AI), Amrita Vishwa Vidyapeetham" width="600"></td>
-    <td><img src="https://github.com/user-attachments/assets/cc12e86b-a2a8-4eca-aca1-f0912b9b4582" alt="coding gif" width="330"></td>
-  </tr>
-</table>
+<img src="assets/hero.png" alt="Hi, I am Prajwal Priyadarshan G. B.Tech CSE (AI), Amrita Vishwa Vidyapeetham" width="100%">
 
 <img src="assets/about.png" alt="About me: end-to-end systems, foundations, AI tooling" width="100%">
 
