@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<img src="assets/about.png" alt="About me: Research, Engineering, Curiosity" width="100%">
+<img src="assets/about.png" alt="About me: end-to-end systems, foundations, AI tooling" width="100%">
 
 <img src="assets/ach.png" alt="Achievements" width="100%">
 
