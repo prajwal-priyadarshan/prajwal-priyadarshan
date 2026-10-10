@@ -2,8 +2,6 @@
 
 <img src="assets/hero.png" alt="Hi, I am Prajwal Priyadarshan G. B.Tech CSE (AI), Amrita Vishwa Vidyapeetham" width="100%">
 
-<img src="assets/about.png" alt="About me: end-to-end systems, foundations, AI tooling" width="100%">
-
 <img src="assets/ach.png" alt="Achievements" width="100%">
 
 <img src="assets/proj.png" alt="Projects: Sambhaash AI, RepoGuardian AI, StockSense AI" width="100%">
