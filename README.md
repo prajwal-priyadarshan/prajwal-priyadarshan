@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Hi, I am Prajwal! B.Tech CSE - AI, Amrita Vishwa Vidyapeetham, Coimbatore" width="100%">
+<table>
+  <tr>
+    <td><img src="assets/hero.png" alt="Hi, I am Prajwal! B.Tech CSE - AI, Amrita Vishwa Vidyapeetham, Coimbatore" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc12e86b-a2a8-4eca-aca1-f0912b9b4582" alt="coding gif" width="330"></td>
+  </tr>
+</table>
 
 <img src="assets/about.png" alt="About me: Research, Engineering, Curiosity" width="100%">
 
