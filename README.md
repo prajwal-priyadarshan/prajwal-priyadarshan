@@ -7,11 +7,7 @@
   </tr>
 </table>
 
-<img src="assets/about.png" alt="About me: end-to-end systems, foundations, AI tooling" width="100%">
-
 <img src="assets/ach.png" alt="Achievements" width="100%">
-
-<a href="https://www.namespace.world/credentials/certificates/6ia2No8wVrmd"><img src="https://img.shields.io/badge/Hackhazards_%2726-Credential-2b2f37?style=for-the-badge" alt="Hackhazards credential"></a>
 
 <img src="assets/proj.png" alt="Projects: Sambhaash AI, RepoGuardian AI, StockSense AI" width="100%">
 
@@ -24,11 +20,6 @@
 <img src="assets/tech.png" alt="Tech stack" width="100%">
 
 <img src="assets/pub.png" alt="Publications, courses and certifications" width="100%">
-
-<a href="https://doi.org/10.3390/technologies13090423"><img src="https://img.shields.io/badge/Technologies_(MDPI)-DOI-2b2f37?style=for-the-badge" alt="MDPI DOI"></a>
-<a href="https://doi.org/10.1007/s00202-025-03295-1"><img src="https://img.shields.io/badge/Electrical_Engineering_(Springer)-DOI-2b2f37?style=for-the-badge" alt="Springer DOI"></a>
-<a href="https://coursera.org/share/a2d67941bafd7f8d185e99a9785e33fd"><img src="https://img.shields.io/badge/Generative_AI_with_LLMs-Credential-2b2f37?style=for-the-badge" alt="GenAI credential"></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/CYK6LUK2FMIZ"><img src="https://img.shields.io/badge/Supervised_ML-Credential-2b2f37?style=for-the-badge" alt="ML credential"></a>
 
 <img src="assets/connect.png" alt="Connect with me" width="100%">
 
