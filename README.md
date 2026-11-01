@@ -1,41 +1,23 @@
-# Hi, I am Prajwal Priyadarshan G
+<div align="center">
 
-B.Tech CSE (Artificial Intelligence), Amrita Vishwa Vidyapeetham (Aug 2024 - June 2028)
+<img src="assets/hero.png" alt="Hi, I am Prajwal Priyadarshan G. B.Tech CSE (AI), Amrita Vishwa Vidyapeetham" width="100%">
 
-I build React frontends, backend services and deployment infra, with a focus on AI developer tooling.
+<img src="assets/proj.png" alt="Projects: Sambhaash AI, RepoGuardian AI, StockSense AI" width="100%">
 
-## Projects
+<a href="https://sambhaash-ai.vercel.app/"><img src="https://img.shields.io/badge/Sambhaash_AI-Live-2b2f37?style=for-the-badge" alt="Sambhaash AI live"></a>
+<a href="https://repo-guardian-ai.vercel.app/"><img src="https://img.shields.io/badge/RepoGuardian_AI-Live-2b2f37?style=for-the-badge" alt="RepoGuardian AI live"></a>
+<a href="https://github.com/prajwal-priyadarshan/Sambhaash_AI"><img src="https://img.shields.io/badge/Sambhaash_AI-Code-2b2f37?style=for-the-badge" alt="Sambhaash AI code"></a>
+<a href="https://github.com/prajwal-priyadarshan/RepoGuardian_ai"><img src="https://img.shields.io/badge/RepoGuardian_AI-Code-2b2f37?style=for-the-badge" alt="RepoGuardian AI code"></a>
+<a href="https://github.com/prajwal-priyadarshan/StockSense-AI"><img src="https://img.shields.io/badge/StockSense_AI-Code-2b2f37?style=for-the-badge" alt="StockSense AI code"></a>
 
-**[Sambhaash AI](https://sambhaash-ai.vercel.app/)** - Distributed voice-based lead engagement system
-- End-to-end voice engagement, from a client dashboard to a fault-tolerant Twilio-integrated backend
-- Real-time STT/TTS pipelines
-- Redis-backed async task queue with lead scoring, retry logic and dead-letter queues
-- Stack: Twilio, Redis, STT/TTS
-- [Live](https://sambhaash-ai.vercel.app/) | [Code](https://github.com/prajwal-priyadarshan/Sambhaash_AI)
+<img src="assets/tech.png" alt="Tech stack" width="100%">
 
-**[RepoGuardian AI](https://repo-guardian-ai.vercel.app/)** - Automated code analysis platform
-- End-to-end developer productivity platform, from a React client to a FastAPI backend
-- Analyzes repositories for complexity, structure and maintainability
-- GitHub API and LLMs with PostgreSQL/Supabase-backed schemas
-- Stack: React, FastAPI, GitHub API, LLMs, Supabase
-- [Live](https://repo-guardian-ai.vercel.app/) | [Code](https://github.com/prajwal-priyadarshan/RepoGuardian_ai)
+<img src="assets/connect.png" alt="Connect with me" width="100%">
 
-**[StockSense AI](https://github.com/prajwal-priyadarshan/StockSense-AI)** - Multi-agent investment analysis platform
-- Containerized multi-agent investment platform
-- Technical, fundamental, news and sentiment analysis orchestrated via LangGraph
-- FastAPI, PostgreSQL and Redis, with Docker deployment and RAG-backed retrieval
-- Stack: LangGraph, FastAPI, PostgreSQL, Redis, Docker, RAG
-- [Code](https://github.com/prajwal-priyadarshan/StockSense-AI)
+<a href="https://www.prajwal-priyadarshan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/prajwal-priyadarshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/prajwal-priyadarshan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/F640JVUokd/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="mailto:prajwalpriyadarshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-## Tech Stack
-
-- **Languages:** C++, Python, TypeScript, JavaScript, SQL
-- **Frontend:** React.js, TailwindCSS, HTML5, CSS3
-- **Backend & Systems:** Node.js, Express.js, FastAPI, Flask, REST APIs, Microservices, Redis Queues
-- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, Neo4j
-- **AI/ML & GenAI:** PyTorch, TensorFlow, Scikit-learn, LLMs, RAG, GenAI, LangChain, LangGraph
-- **Tools & DevOps:** Git, GitHub, Docker
-
-## Connect
-
-[Portfolio](https://www.prajwal-priyadarshan.me) | [GitHub](https://github.com/prajwal-priyadarshan) | [LinkedIn](https://www.linkedin.com/in/prajwal-priyadarshan) | [LeetCode](https://leetcode.com/u/F640JVUokd/) | [Email](mailto:prajwalpriyadarshan@gmail.com)
+</div>
